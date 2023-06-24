@@ -1,6 +1,11 @@
 
 # Welcome to your CDK Python project!
 
+## Useful links:
+
+1. https://aws-cdk.com/deploying-a-static-website-using-s3-and-cloudfront
+2. https://docs.aws.amazon.com/cdk/api/v2/python/aws_cdk.aws_cloudfront/S3OriginConfig.html
+
 This is a blank project for CDK development with Python.
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
